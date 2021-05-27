@@ -1,0 +1,47 @@
+body
+{
+    background-image:url("1a8a0962dbcbed2670ae4bb96549.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:monospace;
+}
+
+h1
+{
+    font-size:35px !important;
+    padding:5px;
+    border-radius:10px !important;
+    background-color:rgb(145, 145, 240) !important;
+    color:white !important;
+    border:2px solid white !important;
+}
+
+span
+{
+    font-size:20px !important;
+}
+
+button
+{
+font-size:20px;
+border-radius:5px;
+background-color:rgb(145, 145, 240) !important;
+color:white !important;
+border:2px solid white !important;
+padding:4px !important;
+}
+
+canvas
+{
+    border:white 5px solid;
+    border-bottom-left-radius:15px;
+    border-top-right-radius:15px;
+    box-shadow:white 5px 5px 10px;
+    margin-top:50px;
+}
+
+.p,.s
+{
+    width:45px;
+    height:45px;
+}
